@@ -35,7 +35,7 @@ const Statistics = () => {
 }
 
 const Wrapper = styled.div`
-  padding-top: 2em;
+  padding-top: 1em;
 
 .stats {
   display: flex;

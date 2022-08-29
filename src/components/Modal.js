@@ -33,7 +33,7 @@ font-size: 1rem;
 
 .modal {
   position: fixed;
-  top: 320px;
+  top: 350px;
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #1c1c1d;;
@@ -48,7 +48,7 @@ font-size: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 h3 {
